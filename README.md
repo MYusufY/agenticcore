@@ -9,7 +9,7 @@ World's first agentic operating system.
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
-- [Contents](#contents)
+- [Contents](#repository-contents)
 - [Usage](#usage)
 - [Development Process](#development-process)
 - [License](#license)
@@ -62,7 +62,7 @@ Some of the things you need to know:
 - Just ask AI what to do.
 - When AI generates a script, you can always reveal the code and inspect the code or run it right away by just pressing the "Run" button.
 
-# Contents
+# Repository Contents
 [scripts/main.py](./scripts/main.py "scripts/main.py") -> "Agent" Program of **Local Version!**
 
 [scripts/bootlocal.sh](./scripts/bootlocal.sh "scripts/bootlocal.sh") -> Creates required files for wbar configuration.

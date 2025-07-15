@@ -9,6 +9,7 @@ World's first agentic operating system.
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
+- [Contents](#contents)
 - [Usage](#usage)
 - [Development Process](#development-process)
 - [License](#license)

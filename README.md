@@ -29,7 +29,7 @@ Still being in Alpha release, AgenticCore doesnt work flawless for now. We can m
 - No internet connection required.
 - Agentic.
 
-## Gemini API Version
+## Gemini API Version
 - Slightly ligther than Local Version.
 - Works faster on old machines.
 - Smarter compared to small local models.

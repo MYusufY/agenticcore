@@ -9,7 +9,7 @@ World's first agentic operating system.
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
-- [Contents](#repository-contents)
+- [Repository Contents](#repository-contents)
 - [Usage](#usage)
 - [Development Process](#development-process)
 - [License](#license)

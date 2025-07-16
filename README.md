@@ -4,6 +4,16 @@
 
 World's first agentic operating system.
 
+## Base System
+
+AgenticCore is based on [Tiny Core Linux](http://tinycorelinux.net/), which is licensed under the [GPLv2 License](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
+
+Tiny Core's original source code is available at: http://tinycorelinux.net/
+
+## My Contributions
+
+This repository contains my custom scripts, configuration files, and packages used to make AgenticCore.
+
 # Contents
 
 - [About](#about)

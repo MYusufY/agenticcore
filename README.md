@@ -133,7 +133,7 @@ When launched,
 
 - In 15.07.2025, i posted about AgenticCore on reddit. It got deleted from 2 subreddits in just a hour due "too much reports". I dont know why :/
 
-# Build Yourself
+# Build
 You can follow these steps to build AgenticCore by yourself.
 
 ## Local Version
